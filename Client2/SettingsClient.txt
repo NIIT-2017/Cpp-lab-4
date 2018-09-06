@@ -1,0 +1,4 @@
+IP_adress=127.0.0.1
+Port=4444
+Decompression=1
+Decoding=1
